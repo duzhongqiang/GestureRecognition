@@ -1,0 +1,10 @@
+0 houyi
+1 latui
+2 qiantui
+3 tuila
+4 tuiyou
+5 tuizuo
+6 youhua
+7 youzuohua
+8 zuohua
+9 zuoyouhua
